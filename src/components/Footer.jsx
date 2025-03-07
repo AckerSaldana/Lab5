@@ -17,7 +17,7 @@ const Footer = () => {
             <Toolbar sx={{ display: 'flex', justifyContent: 'center' }}>
                 <Box>
                     <Typography variant="body2" color="white">
-                        © {new Date().getFullYear()} Mis rutas
+                        © {new Date().getFullYear()} Acker Saldaña | A008383149
                     </Typography>
                 </Box>
             </Toolbar>
